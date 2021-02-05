@@ -9,6 +9,10 @@ Também realizei o deploy do modelo em produção no Heroku. O código da web AP
 
 Para facilitar a utilização das previsões para o usuário final (um gerente de loja, por exemplo), criei um bot no telegram. Os códigos estão [aqui][3]. 
 
+## TODO:
+- Descrição mais detalhada de cada etapa
+- Introdução e conclusão
+
 
 [1]: https://www.kaggle.com/c/rossmann-store-sales/data
 [2]: https://github.com/PatrickRudgeri/rossmann-forecast-webapi
