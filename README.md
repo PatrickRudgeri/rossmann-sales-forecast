@@ -18,3 +18,5 @@ Para facilitar a utilização das previsões para o usuário final (um gerente d
 [2]: https://github.com/PatrickRudgeri/rossmann-forecast-webapi
 [3]: https://github.com/PatrickRudgeri/rossmann-forecast-telegram-bot
 [4]: https://www.rossmann.de/de
+
+![](https://hit.yhype.me/github/profile?user_id=20716307)
